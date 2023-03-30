@@ -2,7 +2,7 @@
 
 > Estudante da FATEC-SJC [Desenvolvimento de Software Multiplataforma] desde Agosto/22!
 
-🔭 No momento focado no API do 1º Semestre, um 'internet banking' utilizando Python>Flask! 
+🔭 No momento focado no API do 2º Semestre, um 'ERP de Entrada de Grãos' utilizando Node/React! 
 
 📚 Gosto de estudar um pouco sobre cada parte da programação.
 
