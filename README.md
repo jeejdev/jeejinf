@@ -2,7 +2,7 @@
 
 > Estudante da FATEC-SJC [Desenvolvimento de Software Multiplataforma] desde Agosto/22!
 
-🔭 No momento focado no API do 2º Semestre, um 'ERP de Entrada de Grãos' utilizando Node/React! 
+🔭 No momento focado no Projeto Semestral do 3º Semestre, um projeto utilizando Java Spring e React! 
 
 📚 Gosto de estudar um pouco sobre cada parte da programação.
 
