@@ -2,9 +2,9 @@
 
 > Estudante da FATEC-SJC [Desenvolvimento de Software Multiplataforma] desde Agosto/22!
 
-🔭 No momento focado no Projeto Semestral do 3º Semestre, um projeto utilizando Java Spring e React! 
+🔭 No momento focado no Projeto Semestral do 5º Semestre, um projeto utilizando IA e Fluter.
 
-📚 Gosto de estudar um pouco sobre cada parte da programação.
+📚 Gosto de estudar um pouco sobre cada parte da programação. Estagiando de FullStack.
 
 ----
 
